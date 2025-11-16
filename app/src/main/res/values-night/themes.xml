@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Dark Theme -->
+    <style name="Theme.MAD_23012011126_Practical7" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark colors here -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+</resources>
