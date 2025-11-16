@@ -50,14 +50,23 @@ To build an Android app that retrieves data in JSON format from a web API, displ
     <th>Fetch Details:</th>
   </tr>
   <tr>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/469d3f3e-4070-43ce-8882-f56d32d6b835" />
+    <td><img width="357" height="816" alt="image" src="https://github.com/user-attachments/assets/38c0c847-b1ce-4672-9e31-0a13f62b69b0" />
+
+
 </td>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/a603edf9-b1a1-4649-b2fd-340bb74d6d81" />
+    <td><img width="365" height="822" alt="image" src="https://github.com/user-attachments/assets/83b35bf9-099a-4558-9366-3ab0995f1c04" />
+
+
 </td>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/91e639e4-b839-4060-9ce8-86e530812200" />
+    <td><img width="366" height="822" alt="image" src="https://github.com/user-attachments/assets/33ae7759-0239-4ca1-a858-7a7a4502b172" />
+
+
 </td>
-    <td><img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/e0119dbc-4a6b-4a9a-b8b0-704e1258e240" />
+    <td><img width="367" height="823" alt="image" src="https://github.com/user-attachments/assets/3d905088-2586-4ef7-9fa4-a66825b0b7ba" />
+
+
 </td>
   </tr>
 </table>
+
 
